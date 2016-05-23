@@ -1,0 +1,6 @@
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\bin\Debug\Tasks3.exe.config
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\bin\Debug\Tasks3.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\bin\Debug\Tasks3.pdb
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\obj\Debug\Tasks3.1.csprojResolveAssemblyReference.cache
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\obj\Debug\Tasks3.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3\obj\Debug\Tasks3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3.6\bin\Debug\Tasks3.6.exe.config
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3.6\bin\Debug\Tasks3.6.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3.6\bin\Debug\Tasks3.6.pdb
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3.6\obj\Debug\Tasks3.6.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks3\Tasks3.6\obj\Debug\Tasks3.6.pdb

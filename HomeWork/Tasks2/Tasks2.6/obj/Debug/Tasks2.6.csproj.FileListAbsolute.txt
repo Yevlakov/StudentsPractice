@@ -1,0 +1,6 @@
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\bin\Debug\Tasks2.6.exe.config
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\bin\Debug\Tasks2.6.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\bin\Debug\Tasks2.6.pdb
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\obj\Debug\Tasks2.6.csprojResolveAssemblyReference.cache
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\obj\Debug\Tasks2.6.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Tasks2.6\obj\Debug\Tasks2.6.pdb

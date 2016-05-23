@@ -1,0 +1,6 @@
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\bin\Debug\Task2.9.exe.config
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\bin\Debug\Task2.9.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\bin\Debug\Task2.9.pdb
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\obj\Debug\Task2.9.csprojResolveAssemblyReference.cache
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\obj\Debug\Task2.9.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.9\obj\Debug\Task2.9.pdb

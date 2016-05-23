@@ -1,0 +1,6 @@
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\bin\Debug\Task2.8.exe.config
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\bin\Debug\Task2.8.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\bin\Debug\Task2.8.pdb
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\obj\Debug\Task2.8.csprojResolveAssemblyReference.cache
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\obj\Debug\Task2.8.exe
+C:\Users\Megos_PC\Desktop\ISD\HomeWork\Tasks2\Task2.8\obj\Debug\Task2.8.pdb
